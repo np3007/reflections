@@ -13,5 +13,3 @@ gives me the ability to revert to an older version whenever i want and to compar
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-CREATING A GIT REPOSITORY FROM SCRATCH:
-git init
