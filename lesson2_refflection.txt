@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+When you initialise the repository a .git file is created in your repository but the files in the directory are not yet commited to the git repository
+
+
+CREATING A GIT REPOSITORY FROM SCRATCH:
+git init
+
+git status gives you the status of the untracked files in your pwd as well as the added files in your staging area
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is where the files that are to go as part of one commit go. So "git add file1" command adds the file1 to staging area 
