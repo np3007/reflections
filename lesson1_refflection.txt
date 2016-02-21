@@ -1,0 +1,17 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+It helped me see!
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+you know right!
+How can you use the commands git log and git diff to view the history of files?
+Git log is to see the list of all commits, git diff can be used to take a difference between two commits using the ids listed in git log.
+
+When you checkout in Git, you checkout the entire commit. Also, you go into 'detatched HEAD' state because yuo can actually create a new branch starting from the current checked-out commit view. If you want to start a new branch you can do so using:
+git checkout -b new_branch
+
+How might using version control make you more confident to make changes that could break something?
+gives me the ability to revert to an older version whenever i want and to compare and find out where the bug was introduced.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+CREATING A GIT REPOSITORY FROM SCRATCH:
+git init
